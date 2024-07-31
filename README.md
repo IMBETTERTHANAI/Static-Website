@@ -1,1 +1,2 @@
 # Static-Website
+I created a visually appealing website using Bootstrap for responsive layout and design. The site features a clean, modern look, thanks to a custom design crafted with Canva. Bootstrap’s grid system and components were used to ensure the website is both functional and adaptable across devices. This project highlights my ability to blend design creativity with robust, responsive web development.
